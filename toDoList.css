@@ -1,0 +1,28 @@
+   body {
+    font-family: open sans, sans-serif;
+    background-color: beige;
+ }
+
+    .container {
+        width: 800px;
+        margin: auto;
+        background-color: white;
+        padding: 20px;
+        height: 200px;
+        }
+
+     h1 {
+         text-align:left;
+        }
+
+    #addButton {
+         background-color: purple;
+         color: black;
+         border: none;       
+        }
+
+     #list {
+        list-style:circle;
+        color: purple;
+        }
+      

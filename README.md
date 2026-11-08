@@ -1,22 +1,34 @@
-# ✅ Week05 Bootcamp2019 Project: Todo List
+# Todo List
 
-### Goal: Build a Simple Todo List
+The Todo List is a simple web application that allows users to create and manage a list of tasks. Users can add new tasks, keep track of things they need to accomplish, and organize their daily responsibilities.
 
-### How to submit your code for review:
+The application provides a straightforward way to manage tasks and keep track of completed and outstanding items.
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+## Features
+Add Tasks: Create and add new tasks to the todo list.
+View Tasks: Display all tasks in the list.
+Delete Tasks: Remove tasks when finished.
+Interactive Interface: Easily add and manage tasks.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## Tech Stack
+Frontend: HTML, CSS, JavaScript
+
+## What I Learned
+Using JavaScript to create interactive web applications.
+Working with arrays and objects to store and manage tasks.
+Handling user input through forms.
+Using event listeners to respond to user interactions.
+Creating functionality to add and delete tasks.
+Manipulating the DOM to dynamically update the task list.
+Organizing JavaScript code to make functionality easier to maintain.
+
+## Installation
+Fork and clone the repository.
+Navigate to the project directory.
+
+## Usage
+Open the index.html file in your browser.
+Enter a task into the input field.
+Submit your task to add it to the list.
+Delete tasks that you no longer need.
+Continue adding and managing tasks as needed!
